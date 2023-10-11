@@ -1,0 +1,66 @@
+html {
+  margin: 0px;
+}
+body {
+  background-color: blue;
+  margin: 1px;
+  padding: 0px;
+  height: 1000px;
+}
+.main {
+  margin: 10px;
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+  min-height: 200px;
+}
+.container {
+  width: 50%;
+  float: left;
+  height: 50%;
+}
+.container2 {
+  width: 50%;
+  float: right;
+  height: 50%;
+}
+.one {
+  max-width: 500px;
+  min-width: 250px;
+  background-color: rgb(124, 167, 60);
+  width: 100%;
+  height: 50%;
+}
+.two {
+  max-width: 500px;
+  min-width: 250px;
+  background-color: rgb(158, 252, 17);
+  width: 100%;
+  height: 50%;
+}
+.three {
+  max-width: 500px;
+  min-width: 250px;
+  background-color: burlywood;
+  width: 100%;
+  height: 33%;
+}
+.four {
+  max-width: 500px;
+  min-width: 250px;
+  background-color: rgb(174, 75, 143);
+  width: 100%;
+  height: 33%;
+}
+.five {
+  max-width: 500px;
+  min-width: 250px;
+  background-color: burlywood;
+  width: 100%;
+  height: 33%;
+}
+/* @media (min-width: 360px) {
+  .pirmas {
+    display: inline-block;
+  }
+} */
