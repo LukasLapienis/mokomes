@@ -1,0 +1,29 @@
+a:link {
+    color: red;
+    
+}
+
+a:visited {
+    color: blue;
+}
+input:focus {
+    background-color: brown;
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+p:first-child {
+   background-color: red; 
+}
+/* first child of parent element. !only works if p is the first child of parent element */
+.gg:first-of-type {
+    background-color: green;
+    font: bold;
+}
+
+
+
+
