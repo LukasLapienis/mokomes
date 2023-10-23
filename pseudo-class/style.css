@@ -1,3 +1,7 @@
+* {
+    font-size: 30;
+}
+
 a:link {
     color: red;
     
@@ -30,9 +34,11 @@ p:nth-child(3) {
  }
 
  p:nth-child(4) {
-    font-size: 15px;
+    font-size: 10px;
  }
+.paragraph::first-line {
 
+}
 
 
 
